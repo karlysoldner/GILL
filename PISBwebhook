@@ -1,0 +1,18 @@
+{
+  "sensor_id": "PISB",
+  "temp": "{{temp}}",
+  "soil1": "{{soil1}}",
+  "soil2": "{{soil2}}",
+  "battery": "{{battery}}",
+  "network": "{{network}}",
+  "temp_m": "temp_ave",
+  "soil1_m": "temp_min",
+  "soil2_m": "temp_max",
+  "battery_m": "temp_ave",
+  "network_m": "temp_ave",
+  "temp_f": "0",
+  "soil1_f": "0",
+  "soil2_f": "0",
+  "battery_f": "0",
+  "network_f": "0"
+}
