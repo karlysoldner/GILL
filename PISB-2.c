@@ -1,5 +1,5 @@
 // Using one webhook to pass 4 variables to Thingspeak
-const String key = "5AEX7O055U0WE2E7"; // Thingspeak API write key
+const String key = "XXXXXXXXXXXX"; // Thingspeak API write key
 int soil1;
 int soil2;
 int soil3;
